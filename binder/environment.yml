@@ -4,4 +4,3 @@ channels:
 dependencies:
   - matplotlib
   - numpy
-  - conda== 4.5.11
