@@ -2,6 +2,6 @@ name: binder-environment
 channels:
   - conda-forge
 dependencies:
-  - conda == 4.5.11
   - matplotlib
   - numpy
+  - conda== 4.5.11
